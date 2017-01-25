@@ -64,7 +64,7 @@ PHOTO (AVATAR)
   line-height: 1.5em;
 }
 #text-header h1 span{
-  color: #F0563D;
+  color: #FF0000;
 }
 #text-header h1 sup{
   opacity: 0.5;
@@ -232,7 +232,7 @@ SKILLS
 *******************************************/
 .item-skills{
   height: 30px;
-  background: #F0563D;
+  background: #FF0000;
   color: #fff;
   padding: 5px 10px;
   margin-bottom: 5px;
@@ -313,7 +313,7 @@ HOBBIES
   margin-right: 5px;
   margin-bottom: 5px;
   padding: 5px 5px 5px 25px;
-  background: #A75265;
+  background: #FF0000;
   position: relative;
   font-size: 1.2em;
 }
