@@ -333,7 +333,7 @@ HOBBIES
 /*******************************************
 QUOTE
 *******************************************/
-#quote-footer{
+#text-footer{
   padding: 10px 0 40px;
 }
 #text-footer h1{
@@ -348,7 +348,7 @@ QUOTE
 #text-footer h1 span{
   color: #555555;
 }
-#text-footer h1 sup{
+#text-footer h1 strong{
   font-size:5.0em;
   opacity: 0.5;
 }
