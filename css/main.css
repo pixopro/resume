@@ -84,7 +84,7 @@ DEFAULT BOX
   margin-bottom: 15px;
 }
 .box h2{
-  color: #EC7263;
+  color: #FF0000;
   font-size: 1.8em;
   font-weight: 700;
   text-transform: uppercase;
@@ -114,13 +114,13 @@ EDUCATION
   top: 0;
   content: ' ';
   display: block;
-  background: #ec7263;
-  background: -moz-linear-gradient(top,  #ffffff 0%, #ec7263 7%, #ec7263 89%, #ffffff 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(7%,#ec7263), color-stop(89%,#ec7263), color-stop(100%,#ffffff));
-  background: -webkit-linear-gradient(top,  #ffffff 0%,#ec7263 7%,#ec7263 89%,#ffffff 100%);
-  background: -o-linear-gradient(top,  #ffffff 0%,#ec7263 7%,#ec7263 89%,#ffffff 100%);
-  background: -ms-linear-gradient(top,  #ffffff 0%,#ec7263 7%,#ec7263 89%,#ffffff 100%);
-  background: linear-gradient(to bottom,  #ffffff 0%,#ec7263 7%,#ec7263 89%,#ffffff 100%);
+  background: #FF0000;
+  background: -moz-linear-gradient(top,  #ffffff 0%, #FF0000 7%, #FF0000 89%, #ffffff 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(7%,#FF0000), color-stop(89%,#FF0000), color-stop(100%,#ffffff));
+  background: -webkit-linear-gradient(top,  #ffffff 0%,#FF0000 7%,#FF0000 89%,#ffffff 100%);
+  background: -o-linear-gradient(top,  #ffffff 0%,#FF0000 7%,#FF0000 89%,#ffffff 100%);
+  background: -ms-linear-gradient(top,  #ffffff 0%,#FF0000 7%,#FF0000 89%,#ffffff 100%);
+  background: linear-gradient(to bottom,  #ffffff 0%,#FF0000 7%,#FF0000 89%,#ffffff 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
 }
 #education li{
