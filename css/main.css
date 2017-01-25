@@ -64,7 +64,7 @@ PHOTO (AVATAR)
   line-height: 1.5em;
 }
 #text-header h1 span{
-  color: #990000;
+  color: #D90000;
 }
 #text-header h1 sup{
   opacity: 0.5;
@@ -84,7 +84,7 @@ DEFAULT BOX
   margin-bottom: 15px;
 }
 .box h2{
-  color: #990000;
+  color: #D90000;
   font-size: 1.8em;
   font-weight: 700;
   text-transform: uppercase;
@@ -114,13 +114,13 @@ EDUCATION
   top: 0;
   content: ' ';
   display: block;
-  background: #990000;
-  background: -moz-linear-gradient(top,  #ffffff 0%, #990000 7%, #990000 89%, #ffffff 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(7%,#990000), color-stop(89%,#990000), color-stop(100%,#ffffff));
-  background: -webkit-linear-gradient(top,  #ffffff 0%,#990000 7%,#990000 89%,#ffffff 100%);
-  background: -o-linear-gradient(top,  #ffffff 0%,#990000 7%,#990000 89%,#ffffff 100%);
-  background: -ms-linear-gradient(top,  #ffffff 0%,#990000 7%,#990000 89%,#ffffff 100%);
-  background: linear-gradient(to bottom,  #ffffff 0%,#990000 7%,#990000 89%,#ffffff 100%);
+  background: #D90000;
+  background: -moz-linear-gradient(top,  #ffffff 0%, #D90000 7%, #D90000 89%, #ffffff 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(7%,#D90000), color-stop(89%,#D90000), color-stop(100%,#ffffff));
+  background: -webkit-linear-gradient(top,  #ffffff 0%,#D90000 7%,#D90000 89%,#ffffff 100%);
+  background: -o-linear-gradient(top,  #ffffff 0%,#D90000 7%,#D90000 89%,#ffffff 100%);
+  background: -ms-linear-gradient(top,  #ffffff 0%,#D90000 7%,#D90000 89%,#ffffff 100%);
+  background: linear-gradient(to bottom,  #ffffff 0%,#D90000 7%,#D90000 89%,#ffffff 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 );
 }
 #education li{
@@ -187,6 +187,7 @@ EXPERIENCES
 .job .profession{
   font-size: 1.6em;
   font-weight: bold;
+  padding: 0 0 5px;
 }
 .job .description p{
   font-size: 1.2em;
@@ -232,7 +233,7 @@ SKILLS
 *******************************************/
 .item-skills{
   height: 30px;
-  background: #990000;
+  background: #D90000;
   color: #fff;
   padding: 5px 10px;
   margin-bottom: 5px;
