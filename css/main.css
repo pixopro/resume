@@ -338,17 +338,17 @@ QUOTE
 #text-footer h1{
   margin: 0;
   padding: 0;
-  font-size: 2.4em;
+  font-size: 1.75em;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: -1px;
-  color: #555555;
-}
-#text-footer h1 span{
   color: #999999;
 }
+#text-footer h1 span{
+  color: #555555;
+}
 #text-footer h1 sup{
-  font-size:3.0em;
+  font-size:8.0em;
   opacity: 0.5;
 }
 #text-footer:before{
